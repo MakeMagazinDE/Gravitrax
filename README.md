@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# GraviTrax mit ESP32 steuern
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Durch einen kleinen Hack lassen sich GraviTrax-Kugelbahnen durch ESP32-gesteuerte Relais steuern.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Seit 2017 bietet Ravensburger die GraviTrax-Kugelbahn-Baukästen an. Die „Power“-Serie sorgt seit 2022 für technische Finesse. Der GraviTrax Power Element+ Controller erlaubt es, die Power-Elemente per Knopfdruck zu steuern.
 
 ![Picture](https://github.com/MakeMagazinDE/Gravitrax/blob/master/Titelbild.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/25 ab Seite 104](https://www.heise.de/select/make/2025/2/2502114270800013502).
